@@ -47,3 +47,8 @@ Console starts with `pry` instead of classic `irb`. It has many great features l
 - http://rakeroutes.com/blog/lets-write-a-gem-part-two/
 - https://github.com/radar/guides/blob/master/gem-development.md
 - http://firedev.com/posts/2015/making-bottomless-hash-ruby-gem/
+
+
+# TODO
+
+- [ ] http://blog.zachallett.com/pry-reload/
